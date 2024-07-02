@@ -1,0 +1,5 @@
+{"name":"Starships","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"4u2hMeu2P57VpvVZ"}
+{"name":"Mos Shuuta Locations","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"Kr2yi7j9jvWK7EUR"}
+{"name":"NPCs","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"TAUv8b31iEuu5pQS"}
+{"name":"Ryloth Locations","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"aaH5PeHpRyJJF1qq"}
+{"_id":"mFJBIeOY8yThpxbB","name":"Piddock Party","type":"Actor","parent":null,"sorting":"a","sort":-100000,"color":null,"flags":{}}
