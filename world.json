@@ -1,0 +1,32 @@
+{
+  "name": "long-arm-of-the-hutt",
+  "title": "The Long Arm of the Hutt",
+  "description": "<p>The Long Arm of the Hutt follows directly after the Escape From Mos Shuuta adventure.</p>\n<p>The story of how this motley crew assembled and came into possession of the freighter Krayt Fang forms the basis of Escape From Mos Shuuta. While all manner of events and mishaps may have occurred during that time, it is safe to say that at the end of that adventure (and so at the start of this one) the PCs are speeding from Tatooine in a newly acquired vessel having escaped Teemo...for the time being.</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "monsterslongarm",
+      "label": "Monsters_LongArm",
+      "path": "packs/monsterslongarm.db",
+      "private": false,
+      "type": "Actor",
+      "package": "world",
+      "system": "sw5e",
+      "entity": "Actor"
+    }
+  ],
+  "system": "sw5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "9.280",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.6.2.2.2.2"
+}
